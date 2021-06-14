@@ -1,1 +1,3 @@
 # Operativni-sistemi
+
+Kristina Mojsic
